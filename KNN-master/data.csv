@@ -1,0 +1,191 @@
+gender,age,weight,height,budget,job,purchased
+Male,28,75,178,50000,Engineer,1
+Female,35,65,163,70000,Doctor,0
+Male,22,80,185,40000,Student,1
+Female,40,68,170,60000,Teacher,0
+Male,30,85,175,55000,Software Developer,1
+Female,25,60,160,45000,Nurse,0
+Male,33,78,180,60000,Accountant,1
+Female,28,70,165,55000,Marketing Manager,0
+Male,29,72,172,65000,Graphic Designer,1
+Female,32,63,168,50000,Data Analyst,0
+Male,26,77,177,70000,Electrician,1
+Female,38,69,162,60000,Project Manager,0
+Male,24,73,180,55000,Product Manager,1
+Female,31,66,167,50000,Pharmacist,0
+Male,27,79,175,65000,Civil Engineer,1
+Female,34,64,164,45000,HR Specialist,0
+Male,23,76,183,50000,Student,1
+Female,36,67,169,70000,Software Engineer,0
+Male,31,74,176,60000,Financial Analyst,1
+Female,29,61,161,55000,Graphic Designer,0
+Male,35,81,179,65000,Marketing Specialist,1
+Female,27,68,166,50000,Teacher,0
+Male,25,82,182,70000,Data Scientist,1
+Female,33,63,168,60000,Nurse,0
+Male,28,77,174,55000,Architect,1
+Female,30,65,163,50000,HR Manager,0
+Male,34,78,178,65000,Project Manager,1
+Female,26,70,167,60000,Product Manager,0
+Male,22,75,181,50000,Software Developer,1
+Female,37,66,165,70000,Doctor,0
+Male,29,73,175,60000,Electrical Engineer,1
+Female,24,64,162,55000,Marketing Coordinator,0
+Male,32,79,180,65000,Accountant,1
+Female,28,62,164,50000,IT Specialist,0
+Male,30,76,177,70000,Architect,1
+Female,35,67,168,60000,Financial Advisor,0
+Male,27,80,182,55000,Web Developer,1
+Female,31,64,163,50000,Pharmacist,0
+Male,25,77,176,65000,Project Manager,1
+Female,33,69,170,60000,HR Specialist,0
+Male,26,74,179,50000,Data Analyst,1
+Female,29,63,165,70000,Software Engineer,0
+Male,36,82,185,60000,Marketing Specialist,1
+Female,23,65,162,55000,Teacher,0
+Male,38,76,178,65000,Financial Analyst,1
+Female,32,68,166,60000,Product Manager,0
+Male,28,78,183,50000,IT Consultant,1
+Female,30,62,164,70000,Graphic Designer,0
+Male,34,80,180,60000,Electrical Engineer,1
+Female,27,66,167,55000,Project Manager,0
+Male,31,75,175,65000,Software Developer,1
+Female,35,64,163,50000,HR Manager,0
+Male,29,77,176,60000,Architect,1
+Female,26,61,162,55000,Marketing Coordinator,0
+Male,22,74,182,50000,Data Scientist,1
+Female,37,68,169,70000,Doctor,0
+Male,23,79,179,60000,Web Developer,1
+Female,30,65,164,50000,Pharmacist,0
+Male,33,76,175,65000,Financial Advisor,1
+Female,28,63,166,60000,Software Engineer,0
+Male,25,81,181,50000,Marketing Specialist,1
+Female,31,67,168,70000,Teacher,0
+Male,27,78,177,60000,IT Specialist,1
+Female,34,62,165,55000,Nurse,0
+Male,36,80,184,65000,Accountant,1
+Female,29,64,163,60000,Project Manager,0
+Male,32,75,178,50000,Product Manager,1
+Female,26,66,162,70000,Graphic Designer,0
+Male,24,79,180,60000,Electrical Engineer,1
+Female,39,69,170,55000,Financial Analyst,0
+Male,28,73,175,65000,Web Developer,1
+Female,31,61,164,50000,HR Specialist,0
+Male,30,77,176,60000,Data Analyst,1
+Female,33,65,167,55000,Software Developer,0
+Male,25,82,182,70000,Architect,1
+Female,36,66,168,60000,Doctor,0
+Male,22,76,179,55000,Marketing Manager,1
+Female,29,63,165,50000,Teacher,0
+Male,34,80,180,65000,Software Engineer,1
+Female,27,67,166,60000,Financial Analyst,0
+Male,31,74,175,50000,Product Manager,1
+Female,35,68,169,70000,Pharmacist,0
+Male,26,79,181,60000,Graphic Designer,1
+Female,30,62,163,55000,HR Manager,0
+Male,33,77,177,65000,Project Manager,1
+Female,28,64,162,60000,IT Specialist,0
+Male,23,81,183,50000,Electrical Engineer,1
+Female,37,69,168,70000,Marketing Coordinator,0
+Male,29,75,178,60000,Data Scientist,1
+Female,32,66,165,55000,Teacher,0
+Male,27,78,176,65000,Software Developer,1
+Female,34,63,164,50000,Nurse,0
+Male,25,80,182,60000,Accountant,1
+Female,31,67,167,55000,Web Developer,0
+Male,35,76,179,65000,Financial Advisor,1
+Female,28,61,162,50000,Marketing Specialist,0
+Male,30,79,180,60000,IT Specialist,1
+Female,36,68,169,55000,Project Manager,0
+Male,22,74,178,65000,Product Manager,1
+Female,39,65,164,60000,Graphic Designer,0
+Male,24,81,183,50000,Electrical Engineer,1
+Female,29,63,165,70000,Doctor,0
+Male,32,76,177,60000,Web Developer,1
+Female,27,67,166,55000,Pharmacist,0
+Male,31,75,175,65000,Financial Analyst,1
+Female,35,68,169,60000,Software Engineer,0
+Male,26,78,176,55000,Architect,1
+Female,30,64,162,50000,HR Manager,0
+Male,33,80,180,65000,Marketing Manager,1
+Female,28,62,163,60000,Teacher,0
+Male,25,79,181,50000,Data Analyst,1
+Female,31,66,167,70000,Software Developer,0
+Male,27,77,174,60000,Electrical Engineer,1
+Female,34,63,164,55000,Project Manager,0
+Male,23,75,179,65000,Product Manager,1
+Female,37,69,170,60000,Financial Analyst,0
+Male,29,73,175,55000,IT Consultant,1
+Female,32,67,166,50000,Graphic Designer,0
+Male,28,78,177,65000,Architect,1
+Female,30,64,162,60000,Financial Advisor,0
+Male,34,80,180,50000,Web Developer,1
+Female,27,66,167,70000,Pharmacist,0
+Male,31,75,175,60000,Project Manager,1
+Female,35,68,169,55000,HR Specialist,0
+Male,26,76,178,65000,Data Analyst,1
+Female,29,63,165,60000,Software Engineer,0
+Male,36,82,185,50000,Marketing Specialist,1
+Female,23,65,162,70000,Teacher,0
+Male,38,76,178,60000,Financial Analyst,1
+Female,32,68,166,55000,Product Manager,0
+Male,28,78,183,50000,IT Consultant,1
+Female,30,62,164,70000,Graphic Designer,0
+Male,34,80,180,60000,Electrical Engineer,1
+Female,27,66,167,55000,Project Manager,0
+Male,31,75,175,65000,Software Developer,1
+Female,35,64,163,50000,HR Manager,0
+Male,29,77,176,60000,Architect,1
+Female,26,61,162,55000,Marketing Coordinator,0
+Male,22,74,182,50000,Data Scientist,1
+Female,37,68,169,70000,Doctor,0
+Male,23,79,179,60000,Web Developer,1
+Female,30,65,164,50000,Pharmacist,0
+Male,33,76,175,65000,Financial Advisor,1
+Female,28,63,166,60000,Software Engineer,0
+Male,25,81,181,50000,Marketing Specialist,1
+Female,31,67,168,70000,Teacher,0
+Male,27,78,177,60000,IT Specialist,1
+Female,34,62,165,55000,Nurse,0
+Male,36,80,184,65000,Accountant,1
+Female,29,64,163,60000,Project Manager,0
+Male,32,75,178,50000,Product Manager,1
+Female,26,66,162,70000,Graphic Designer,0
+Male,24,79,180,60000,Electrical Engineer,1
+Female,39,69,170,55000,Financial Analyst,0
+Male,28,73,175,65000,Web Developer,1
+Female,31,61,164,50000,HR Specialist,0
+Male,30,77,176,60000,Data Analyst,1
+Female,33,65,167,55000,Software Developer,0
+Male,25,82,182,70000,Architect,1
+Female,36,66,168,60000,Doctor,0
+Male,22,76,179,55000,Marketing Manager,1
+Female,29,63,165,50000,Teacher,0
+Male,34,80,180,65000,Software Engineer,1
+Female,27,67,166,60000,Financial Analyst,0
+Male,31,74,175,50000,Product Manager,1
+Female,35,68,169,70000,Pharmacist,0
+Male,26,79,181,60000,Graphic Designer,1
+Female,30,62,163,55000,HR Manager,0
+Male,33,77,177,65000,Project Manager,1
+Female,28,64,162,60000,IT Specialist,0
+Male,23,81,183,50000,Electrical Engineer,1
+Female,37,69,168,70000,Marketing Coordinator,0
+Male,29,75,178,60000,Data Scientist,1
+Female,32,66,165,55000,Teacher,0
+Male,27,78,176,65000,Software Developer,1
+Female,34,63,164,50000,Nurse,0
+Male,25,80,182,60000,Accountant,1
+Female,31,67,167,55000,Web Developer,0
+Male,35,76,179,65000,Financial Advisor,1
+Female,28,61,162,50000,Marketing Specialist,0
+Male,30,79,180,60000,IT Specialist,1
+Female,36,68,169,55000,Project Manager,0
+Male,22,74,178,65000,Product Manager,1
+Female,39,65,164,60000,Graphic Designer,0
+Male,24,81,183,50000,Electrical Engineer,1
+Female,29,63,165,70000,Doctor,0
+Male,32,76,177,60000,Web Developer,1
+Female,27,67,166,55000,Pharmacist,0
+Male,31,75,175,65000,Financial Analyst,1
+Female,35,68,169,60000,Software Engineer,0
